@@ -1,4 +1,5 @@
-# C170-Database-Design-and-Development
+#Database-Design-and-Development
+
 INTRODUCTION
 For this assessment, you will be creating an entity-relationship (ER) model, databases, tables, and queries for two fictional small businesses. To complete this assessment, you will use SQL to test and run a database application that you will develop. After running the code, you will take a screenshot of your results and paste the screenshot into a document that you will submit.
 
